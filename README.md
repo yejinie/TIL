@@ -1,13 +1,13 @@
 # TIL(Today I learned)
 
-## 부제목
+## About
 
-> 내용
+> what I studied today
 
 ---
 
-## 부제목
+## Daily commit
 
-> 내용
+> Study Git through 1 commit per day
 
 ***
