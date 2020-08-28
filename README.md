@@ -4,7 +4,13 @@
 
 > what I studied today
 
----
+
+## Rule
+
+1. Commit only the code I wrote myself
+2. Or the code I fully understood
+3. _DO NOT_ commit meaningless code
+
 
 ## Daily commit
 
