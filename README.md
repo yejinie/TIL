@@ -8,6 +8,8 @@
 
 ## Daily commit
 
+### 2020.08.25~
+
 > Study Git through 1 commit per day
 
 ***
