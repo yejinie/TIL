@@ -11,10 +11,11 @@
 2. Or the code I fully understood
 3. _DO NOT_ commit meaningless code
 
+---
 
-## Daily commit
+### Daily commit
 
-### 2020.08.25~
+#### 2020.08.25~
 
 > Study Git through 1 commit per day
 
