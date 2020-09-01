@@ -1,8 +1,7 @@
-print("Hello vscode!")    
+L = [0,1,2,3,4,5,6,7,8,9]
 
 
+#methods
 
-a = "12345"
-"""docstring"""
-for i in a:
-    print (i)
+L.append(10)
+print(L)
