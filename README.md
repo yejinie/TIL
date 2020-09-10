@@ -21,7 +21,7 @@
 
 #### 2020.09.10~
 
-> web
+> web (html, CSS, javascript)
 
 
 > data analysis
