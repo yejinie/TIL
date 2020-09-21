@@ -20,6 +20,8 @@
 > Study Git through 1 commit per day
 
 #### 2020.09.10~
+> java exercises
+
 
 > web (html, CSS, javascript)
 
