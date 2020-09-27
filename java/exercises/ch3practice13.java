@@ -2,7 +2,7 @@ package exercises;
 
 public class ch3practice13 {
 	public static void main(String[] args) {
-		String str[] = {"�ڼ� ¦", "�ڼ� ¦¦"};
+		String str[] = {"박수 짝", "박수 짝짝"};
 		int res, num, numOf369 = 0;
 		for(int i=1; i<100; i++) {
 			num = i;
