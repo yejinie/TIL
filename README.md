@@ -1,10 +1,5 @@
 # TIL(Today I learned)
 
-## About
-
-#### what I studied today
-
-
 ## Rule
 
 1. Commit only the code I wrote myself
@@ -15,15 +10,18 @@
 
 ## Daily commit
 
-#### 2020.08.25~
+#### 2020.08.25~2020.10.02
 
-> Study Git through 1 commit per day
+> 1일 1커밋
 
 #### 2020.09.10~
 > java exercises
 
 
-> web (html, CSS, javascript)
+> web - html
 
 
 > data analysis
+
+#### 2021.04.28
+> 1일 1커밋
